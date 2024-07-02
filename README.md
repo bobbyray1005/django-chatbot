@@ -8,7 +8,7 @@ For more detailed information, please refer to my article titled [Heroku Chatbot
 ### Docker
 
 To deploy the application using Docker, follow these steps:
-1. Clone the repository: `git clone https://github.com/slyapustin/django-chatbot`
+1. Clone the repository: `git clone https://github.com/bobbyray1005/django-chatbot`
 2. Build and run the project: `docker-compose up`
 3. Visit `http://localhost:8000/` in your web browser.
 
@@ -34,6 +34,3 @@ The chatbot supports the following commands:
 
 - `sum <x> <y>`: Calculates the sum of two integers.
 - `status <url>`: Checks the status of a website.
-
-## Need some help?
-Join the Slack channel [#django-chatbot](https://join.slack.com/t/lyapustin/shared_invite/enQtNzc0MDQ0NjMxMzY2LTNmOTQ0NWM3YTQxYjM2ZGM3NTZiZWE1Y2E4ZGYyNDc2ODc3NzQ3ZWNlNDk3MGEyMWU0MDFiM2ZlYjYzY2I2Zjk) for assistance.
